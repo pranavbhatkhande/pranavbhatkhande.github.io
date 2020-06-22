@@ -1,60 +1,70 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
-<channel>
-<title>Combustive-Brains</title>
-<link>https://github.com/rahulekbote/combustible-brains/</link>
-<language>en-us</language>
-<atom:link href="https://PODCAST URL.com/feed.xml" rel="self" type="application/rss+xml"/>
-<copyright>Combustible-Brains</copyright>
-<itunes:subtitle>Combustible-Brains</itunes:subtitle>
-<itunes:author>Pranav Bhatkhande and Rahul Ekbote</itunes:author>
-<itunes:summary>
-Combustible Brains is a podcast where all is fair game, as long as we find appeal in it. We're a bunch of enthusiasts of technology, martial arts, motorcycles and coffee beans. Expect no less in any episode.
-</itunes:summary>
-<itunes:keywords>
-technology,india,china,brains,ideas,coffee,plants,mma,
-</itunes:keywords>
-<description>
-Combustible Brains is a podcast where all is fair game, as long as we find appeal in it. We're a bunch of enthusiasts of technology, martial arts, motorcycles and coffee beans. Expect no less in any episode.
-</description>
-<itunes:owner>
-<itunes:name>Pranav Bhatkhande and Rahul Ekbote</itunes:name>
-<itunes:email>pranavbhatkhande@gmail.com</itunes:email>
-</itunes:owner>
-<itunes:image href="https://github.com/rahulekbote/combustible-brains/blob/master/cb-icon-1-yellow.png"/>
-<itunes:category text="Technology"></itunes:category>
-<itunes:category text="Leisure"></itunes:category>
-<itunes:category text="Health &amp; Fitness"></itunes:category>
-
-<item>
-<title>Indian-Banning-Chinese-Apps</title>
-<itunes:title>Indian-Banning-Chinese-Apps</itunes:title>
-<itunes:author>Pranav Bhatkhande and Rahul Ekbote</itunes:author>
-<itunes:subtitle>
-Indian-Banning-Chinese-Apps
-</itunes:subtitle>
-<itunes:summary>
-<![CDATA[
+<rss xmlns:atom="http://www.w3.org/2005/Atom"
+   	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+   	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+   	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+   	xmlns:media="http://www.rssboard.org/media-rss"
+   	version="2.0">
+	<channel>
+		<title>Combustive-Brains</title>
+		<link>https://github.com/rahulekbote/combustible-brains/</link>
+		<language>en-us</language>
+		<atom:link href="https://PODCAST URL.com/feed.xml"
+         			rel="self"
+         			type="application/rss+xml"/>
+		<copyright>Combustible-Brains</copyright>
+		<itunes:subtitle>Combustible-Brains</itunes:subtitle>
+		<itunes:author>Pranav Bhatkhande and Raa</itunes:author>
+		<itunes:summary>
+			Combustible Brains is a podcast where all is fair game, as long as we find appeal in it. We're a bunch of enthusiasts of technology, martial arts, motorcycles and coffee beans. Expect no less in any episode.
+		</itunes:summary>
+		<itunes:keywords>
+			technology,india,china,brains,ideas,coffee,plants,mma,
+		</itunes:keywords>
+		<description>
+			Combustible Brains is a podcast where all is fair game, as long as we find appeal in it. We're a bunch of enthusiasts of technology, martial arts, motorcycles and coffee beans. Expect no less in any episode.
+		</description>
+		<itunes:owner>
+			<itunes:name>Pranav Bhatkhande and Raa</itunes:name>
+			<itunes:email>pranavbhatkhande@gmail.com</itunes:email>
+		</itunes:owner>
+		<itunes:image href="https://github.com/rahulekbote/combustible-brains/blob/master/cb-icon-1-yellow.png"/>
+		<itunes:category text="Technology"/>
+		<itunes:category text="Leisure"/>
+		<itunes:category text="Health &amp; Fitness"/>
+		<googleplay:author>Pranav Bhatkhande and Raa</googleplay:author>
+		<googleplay:image href="https://github.com/rahulekbote/combustible-brains/blob/master/cb-icon-1-yellow.png"/>
+		<item>
+			<title>Indian-Banning-Chinese-Apps</title>
+			<itunes:title>Indian-Banning-Chinese-Apps</itunes:title>
+			<itunes:author>Pranav Bhatkhande and Raa</itunes:author>
+			<itunes:subtitle>
+				Indian-Banning-Chinese-Apps
+			</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[
 Today we're talking about the Indians banning Chinese apps in response to the current India-China situation.
 We then talk about how you can best protect your privacy using pragmatic tools like Signal.
 ]]>
-</itunes:summary>
-<description>
-<![CDATA[
+			</itunes:summary>
+			<description>
+				<![CDATA[
 Today we're talking about the Indians banning Chinese apps in response to the current India-China situation.
 We then talk about how you can best protect your privacy using pragmatic tools like Signal.
 ]]>
-</description>
-<itunes:image href="https://github.com/rahulekbote/combustible-brains/blob/master/cb-icon-1-yellow.png"/>
-<enclosure url="https://LOCATION OF MP3.MP3" length="LENGTH" type="audio/mpeg"/>
-<itunes:duration>DURATION</itunes:duration>
-<itunes:season>SEASON #</itunes:season>
-<itunes:episode>EPISODE #</itunes:episode>
-<itunes:episodeType>full</itunes:episodeType>
-<guid isPermaLink="false">
-https://LOCATION OF MP3.MP3
-</guid>
-<pubDate>EPISODE PUBLISH DATE</pubDate>
-<itunes:explicit>YES/NO</itunes:explicit>
-</item>
-</channel>
+			</description>
+			<itunes:image href="https://github.com/rahulekbote/combustible-brains/blob/master/cb-icon-1-yellow.png"/>
+			<enclosure url="https://github.com/rahulekbote/combustible-brains/blob/master/audio/CBoA-Podcast-Ep3-AudioOnly.mp3"
+         				length="96382729"
+         				type="audio/mpeg"/>
+			<itunes:duration>2408</itunes:duration>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>3</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<guid isPermaLink="false">
+				https://github.com/rahulekbote/combustible-brains/blob/master/audio/CBoA-Podcast-Ep3-AudioOnly.mp3
+			</guid>
+			<pubDate>Fri, 22 Jun 2020 12:00:00 GMT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>
+	</channel>
 </rss>
