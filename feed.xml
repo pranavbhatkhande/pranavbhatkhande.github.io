@@ -5,7 +5,7 @@
    	xmlns:media="http://www.rssboard.org/media-rss"
    	version="2.0">
 	<channel>
-		<title>Combustible-Brains</title>
+		<title>Combustible Brains</title>
 		<link>https://pranavbhatkhande.github.io</link>
 		<language>en-us</language>
 		<atom:link href="https://pranavbhatkhande.github.io/feed.xml"
