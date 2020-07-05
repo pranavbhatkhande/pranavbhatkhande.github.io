@@ -6,9 +6,9 @@
    	version="2.0">
 	<channel>
 		<title>Combustive-Brains</title>
-		<link>https://github.com/rahulekbote/combustible-brains/</link>
+		<link>https://pranavbhatkhande.github.io</link>
 		<language>en-us</language>
-		<atom:link href="https://github.com/rahulekbote/combustible-brains/blob/master/feed.xml"
+		<atom:link href="https://pranavbhatkhande.github.io/feed.xml"
          			rel="self"
          			type="application/rss+xml"/>
 		<copyright>Combustible-Brains</copyright>
@@ -18,7 +18,7 @@
 			Combustible Brains is a podcast where all is fair game, as long as we find appeal in it. We're a bunch of enthusiasts of technology, martial arts, motorcycles and coffee beans. Expect no less in any episode.
 		</itunes:summary>
 		<itunes:keywords>
-			technology,india,china,brains,ideas,coffee,plants,mma,
+			technology,india,china,ideas,fitness,apps,books,
 		</itunes:keywords>
 		<description>
 			Combustible Brains is a podcast where all is fair game, as long as we find appeal in it. We're a bunch of enthusiasts of technology, martial arts, motorcycles and coffee beans. Expect no less in any episode.
@@ -27,12 +27,12 @@
 			<itunes:name>Pranav Bhatkhande and Raa</itunes:name>
 			<itunes:email>pranavbhatkhande@gmail.com</itunes:email>
 		</itunes:owner>
-		<itunes:image href="https://github.com/rahulekbote/combustible-brains/blob/master/cb-icon-1-yellow.png"/>
+		<itunes:image href="https://pranavbhatkhande.github.io/cb-icon-1-yellow.png"/>
 		<itunes:category text="Technology"/>
 		<itunes:category text="Leisure"/>
 		<itunes:category text="Health &amp; Fitness"/>
 		<googleplay:author>Pranav Bhatkhande and Raa</googleplay:author>
-		<googleplay:image href="https://github.com/rahulekbote/combustible-brains/blob/master/cb-icon-1-yellow.png"/>
+		<googleplay:image href="https://pranavbhatkhande.github.io/cb-icon-1-yellow.png"/>
 		<item>
 			<title>Indian-Banning-Chinese-Apps</title>
 			<itunes:title>Indian-Banning-Chinese-Apps</itunes:title>
@@ -52,8 +52,8 @@ Today we're talking about the Indians banning Chinese apps in response to the cu
 We then talk about how you can best protect your privacy using pragmatic tools like Signal.
 ]]>
 			</description>
-			<itunes:image href="https://github.com/rahulekbote/combustible-brains/blob/master/cb-icon-1-yellow.png"/>
-			<enclosure url="https://github.com/rahulekbote/combustible-brains/blob/master/audio/CBoA-Podcast-Ep3-AudioOnly.mp3"
+			<itunes:image href="https://pranavbhatkhande.github.io/cb-icon-1-yellow.png"/>
+			<enclosure url="https://pranavbhatkhande.github.io/audio/CBoA-Podcast-Ep3-AudioOnly.mp3"
          				length="96382729"
          				type="audio/mpeg"/>
 			<itunes:duration>2408</itunes:duration>
@@ -61,7 +61,7 @@ We then talk about how you can best protect your privacy using pragmatic tools l
 			<itunes:episode>3</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 			<guid isPermaLink="false">
-				https://github.com/rahulekbote/combustible-brains/blob/master/audio/CBoA-Podcast-Ep3-AudioOnly.mp3
+				https://pranavbhatkhande.github.io/audio/CBoA-Podcast-Ep3-AudioOnly.mp3
 			</guid>
 			<pubDate>Fri, 22 Jun 2020 12:00:00 GMT</pubDate>
 			<itunes:explicit>false</itunes:explicit>
