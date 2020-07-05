@@ -31,6 +31,7 @@
 		<itunes:category text="Technology"/>
 		<itunes:category text="Leisure"/>
 		<itunes:category text="Health &amp; Fitness"/>
+		<itunes:explicit>no</itunes:explicit>
 		<googleplay:author>Pranav Bhatkhande and Raa</googleplay:author>
 		<googleplay:image href="https://pranavbhatkhande.github.io/cb-icon-1-yellow.png"/>
 		<item>
