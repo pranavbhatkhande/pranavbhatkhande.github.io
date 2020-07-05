@@ -8,7 +8,7 @@
 		<title>Combustive-Brains</title>
 		<link>https://github.com/rahulekbote/combustible-brains/</link>
 		<language>en-us</language>
-		<atom:link href="https://PODCAST URL.com/feed.xml"
+		<atom:link href="https://github.com/rahulekbote/combustible-brains/blob/master/feed.xml"
          			rel="self"
          			type="application/rss+xml"/>
 		<copyright>Combustible-Brains</copyright>
