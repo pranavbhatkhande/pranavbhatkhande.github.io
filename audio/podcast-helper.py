@@ -13,7 +13,7 @@ size = str(statinfo.st_size)
 audio = MP3(mp3filename)
 length = str(audio.info.length)
  
-xmlfile = "<enclosure url='https://PODCAST URL/{}' length='{}' type='audio/mpeg'/>\n".format('/Users/pranav/sandboxes/pranavbhatkhande.github.io/audio/CBoA-Podcast-Ep4-AudioOnly.mp3',size)
+xmlfile = "<enclosure url='https://PODCAST URL/{}' length='{}' type='audio/mpeg'/>\n".format(mp3filename,size)
 xmlfile += "<itunes:duration>{}</itunes:duration>\n".format(length)
 
 print(xmlfile)
