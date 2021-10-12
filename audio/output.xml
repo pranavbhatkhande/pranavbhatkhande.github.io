@@ -1,0 +1,91 @@
+<rss xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns2="http://www.google.com/schemas/play-podcasts/1.0" version="2.0">
+	<channel>
+		<title>Combustible Brains</title>
+		<link>https://pranavbhatkhande.github.io</link>
+		<language>en-us</language>
+		<ns0:link href="https://pranavbhatkhande.github.io/feed.xml" rel="self" type="application/rss+xml" />
+		<copyright>Combustible Brains</copyright>
+		<ns1:subtitle>Combustible Brains</ns1:subtitle>
+		<ns1:author>Pranav Bhatkhande and Raa</ns1:author>
+		<ns1:summary>
+			Combustible Brains is a podcast where all is fair game, as long as we find appeal in it. We're a bunch of enthusiasts of technology, martial arts, motorcycles and coffee beans. Expect no less in any episode.
+		</ns1:summary>
+		<ns1:keywords>
+			technology,india,china,ideas,fitness,apps,
+		</ns1:keywords>
+		<description>
+			Combustible Brains is a podcast where all is fair game, as long as we find appeal in it. We're a bunch of enthusiasts of technology, martial arts, motorcycles and coffee beans. Expect no less in any episode.
+		</description>
+		<ns1:owner>
+			<ns1:name>Pranav Bhatkhande and Raa</ns1:name>
+			<ns1:email>pranavbhatkhande@gmail.com</ns1:email>
+		</ns1:owner>
+		<ns1:image href="https://pranavbhatkhande.github.io/cb-icon-1-yellow.png" />
+		<ns1:explicit>no</ns1:explicit>
+		<ns1:category text="Technology" />
+		<ns1:category text="Leisure" />
+		<ns1:category text="Health &amp; Fitness" />
+		<ns2:author>Pranav Bhatkhande and Raa</ns2:author>
+		<ns2:image href="https://pranavbhatkhande.github.io/cb-icon-1-yellow.png" />
+		<item>
+			<title>Indians Banning Chinese Apps</title>
+			<ns1:title>Indians Banning Chinese Apps</ns1:title>
+			<ns1:author>Pranav Bhatkhande and Raa</ns1:author>
+			<ns1:subtitle>
+				Indians Banning Chinese Apps
+			</ns1:subtitle>
+			<ns1:summary>
+				
+Today we're talking about the Indians banning Chinese apps in response to the current India-China situation.
+We then talk about how you can best protect your privacy using pragmatic tools like Signal.
+
+			</ns1:summary>
+			<description>
+				
+Today we're talking about the Indians banning Chinese apps in response to the current India-China situation.
+We then talk about how you can best protect your privacy using pragmatic tools like Signal.
+
+			</description>
+			<ns1:image href="https://pranavbhatkhande.github.io/cb-icon-1-yellow.png" />
+			<enclosure length="96382729" type="audio/mpeg" url="https://pranavbhatkhande.github.io/audio/CBoA-Podcast-Ep3-AudioOnly.mp3" />
+			<ns1:duration>2408</ns1:duration>
+			<ns1:season>1</ns1:season>
+			<ns1:episode>3</ns1:episode>
+			<ns1:episodeType>full</ns1:episodeType>
+			<guid isPermaLink="false">
+				https://pranavbhatkhande.github.io/audio/CBoA-Podcast-Ep3-AudioOnly.mp3
+			</guid>
+			<pubDate>Fri, 22 Jun 2020 12:00:00 GMT</pubDate>
+			<ns1:explicit>false</ns1:explicit>
+		</item>
+		<item>
+			<title>Brave New World</title>
+			<ns1:title>Brave New World</ns1:title>
+			<ns1:author>Pranav Bhatkhande and Raa</ns1:author>
+			<ns1:subtitle>
+				Brave New World
+			</ns1:subtitle>
+			<ns1:summary>
+				
+In this episode, we get a little philosophical as we walk through Aldous Huxley's best work - Brave New World, we then compare and contrast this dystopian paraside to our own, Huxley wrote this in 1932 and looking back today, one might say he was right. We discuss on what it means to be free, and if we're just cogs in the wheels of society.
+
+			</ns1:summary>
+			<description>
+				
+Recommended reading for this episode is the book by Aldous Huxley. We recommend you read it before listening to this episode, but you do what you want - we're not going to tell you how to live your life!
+
+			</description>
+			<ns1:image href="https://pranavbhatkhande.github.io/cb-icon-1-yellow.png" />
+			<enclosure length="59980565" type="audio/mpeg" url="https://pranavbhatkhande.github.io/audio/CBoA-Podcast-Ep4-AudioOnly.mp3" />
+			<ns1:duration>3748.7146666666667</ns1:duration>
+			<ns1:season>1</ns1:season>
+			<ns1:episode>4</ns1:episode>
+			<ns1:episodeType>full</ns1:episodeType>
+			<guid isPermaLink="false">
+				https://pranavbhatkhande.github.io/audio/CBoA-Podcast-Ep4-AudioOnly.mp3
+			</guid>
+			<pubDate>Thu, 22 Jul 2020 22:35:00 GMT</pubDate>
+			<ns1:explicit>false</ns1:explicit>
+		</item>
+	<item><title /><itunes:title /><itunes:author /><itunes:subtitle /><itunes:summary /><itunes:image /><enclosure /><itunes:duration /><itunes:season>2</itunes:season><itunes:episode /><itunes:episodeType /><guid isPermaLink="false" /><pubDate /><itunes:explicit /></item></channel>
+</rss>
