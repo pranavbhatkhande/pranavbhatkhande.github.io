@@ -126,5 +126,42 @@ In this episode, we talk about the newly revealed re-brand of Facebook as Meta, 
 			<pubDate>Sat, 06 Nov 2021 00:00:01 GMT</pubDate>
 			<itunes:explicit>false</itunes:explicit>
 		</item>
+		<item>
+			<title>Bonjour, my little electric skateboard</title>
+			<itunes:title>onjour, my little electric skateboard</itunes:title>
+			<itunes:author>Pranav and Raa</itunes:author>
+			<itunes:subtitle>
+				Bonjour, my little electric skateboard
+			</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[
+Electric cars are the rage, Elon Musk is the richest man in the world, the Chinese carmakers are slowly controlling the world's rare minerals supply, we have a casual chat about these trivial issues.]]>
+			</itunes:summary>
+			<description>
+				<![CDATA[
+Electric cars are the rage, Elon Musk is the richest man in the world, the Chinese carmakers are slowly controlling the world's rare minerals supply, we have a casual chat about these trivial issues.
+]]>
+			</description>
+			<itunes:image href="https://pranavbhatkhande.github.io/cb-icon-1-yellow.png"/>
+<enclosure url='https://pranavbhatkhande.github.io/audio/combustible-brains-ev.mp3' length='74261929' type='audio/mpeg'/>
+<itunes:duration>2339.9967346938774</itunes:duration>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>4</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<guid isPermaLink="false">
+				https://pranavbhatkhande.github.io/audio/combustible-brains-ev.mp3
+			</guid>
+			<pubDate>Sat, 13 Nov 2021 00:00:01 GMT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>
 	</channel>
 </rss>
+
+
+
+
+
+
+
+
+
