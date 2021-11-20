@@ -154,11 +154,36 @@ Electric cars are the rage, Elon Musk is the richest man in the world, the Chine
 			<pubDate>Sat, 13 Nov 2021 00:00:01 GMT</pubDate>
 			<itunes:explicit>false</itunes:explicit>
 		</item>
+		<item>
+			<title>Computers get sophisticated STDs, just like you.</title>
+			<itunes:title>Computers get sophisticated STDs, just like you.</itunes:title>
+			<itunes:author>Pranav and Raa</itunes:author>
+			<itunes:subtitle>
+				Computers get sophisticated STDs, just like you.
+			</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[
+Today we talk about Stuxnet, a sophisticated virus designed to cause real damage, in this episode we also talk about other cyberattacks that Governments these days love. Finally, if you have feedback for us, you can write that email and throw it away, because we don't have a feedback line yet.]]>
+			</itunes:summary>
+			<description>
+				<![CDATA[
+Today we talk about Stuxnet, a sophisticated virus designed to cause real damage, in this episode we also talk about other cyberattacks that Governments these days love. Finally, if you have feedback for us, you can write that email and throw it away, because we don't have a feedback line yet.
+]]>
+			</description>
+			<itunes:image href="https://pranavbhatkhande.github.io/cb-icon-1-yellow.png"/>
+<enclosure url='https://pranavbhatkhande.github.io/audio/cb-stuxnet-pb-audio.mp3' length='70787996' type='audio/mpeg'/>
+<itunes:duration>2597.74693877551</itunes:duration>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>5</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<guid isPermaLink="false">
+				https://pranavbhatkhande.github.io/audio/cb-stuxnet-pb-audio.mp3
+			</guid>
+			<pubDate>Sat, 20 Nov 2021 00:00:01 GMT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>
 	</channel>
 </rss>
-
-
-
 
 
 
