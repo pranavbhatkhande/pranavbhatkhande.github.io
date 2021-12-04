@@ -182,11 +182,33 @@ Today we talk about Stuxnet, a sophisticated virus designed to cause real damage
 			<pubDate>Sat, 20 Nov 2021 00:00:01 GMT</pubDate>
 			<itunes:explicit>false</itunes:explicit>
 		</item>
+		<item>
+			<title>Blue Balled By Communism</title>
+			<itunes:title>Blue Balled By Communism</itunes:title>
+			<itunes:author>Pranav and Raa</itunes:author>
+			<itunes:subtitle>
+				Blue Balled By Communism
+			</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[
+In this episode we touch on how evil empires now control one of the most important minerals required for making electric cars a reality, as we move to a cleaner and greener future, we must understand the evil forces that might ultimately shape the world we envision. Let's build technology to go Cobalt free!]]>
+			</itunes:summary>
+			<description>
+				<![CDATA[
+In this episode we touch on how evil empires now control one of the most important minerals required for making electric cars a reality, as we move to a cleaner and greener future, we must understand the evil forces that might ultimately shape the world we envision. Let's build technology to go Cobalt free!
+]]>
+			</description>
+			<itunes:image href="https://pranavbhatkhande.github.io/cb-icon-1-yellow.png"/>
+<enclosure url='https://pranavbhatkhande.github.io/audio/blue-balled-communism-draft-audio.mp3' length='64912893' type='audio/mpeg'/>
+<itunes:duration>2043.0889795918367</itunes:duration>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>6</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<guid isPermaLink="false">
+				https://pranavbhatkhande.github.io/audio/blue-balled-communism-draft-audio.mp3
+			</guid>
+			<pubDate>Sat, 04 Dec 2021 00:00:01 GMT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>
 	</channel>
 </rss>
-
-
-
-
-
-
