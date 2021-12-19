@@ -210,5 +210,34 @@ In this episode we touch on how evil empires now control one of the most importa
 			<pubDate>Sat, 04 Dec 2021 00:00:01 GMT</pubDate>
 			<itunes:explicit>false</itunes:explicit>
 		</item>
+		<item>
+			<title>Your cousin is whiny socialist</title>
+			<itunes:title>Your cousin is whiny socialist</itunes:title>
+			<itunes:author>Pranav and Raa</itunes:author>
+			<itunes:subtitle>
+				Your cousin is whiny socialist
+			</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[
+First we rant, and then we talk about the antiwork movement on reddit, captured on https://www.reddit.com/r/antiwork/. I'm too bored to write a longer description, so listen to the podcast instead.]]>
+			</itunes:summary>
+			<description>
+				<![CDATA[
+First we rant, and then we talk about the antiwork movement on reddit, captured on https://www.reddit.com/r/antiwork/. I'm too bored to write a longer description, so listen to the podcast instead.
+]]>
+			</description>
+			<itunes:image href="https://pranavbhatkhande.github.io/cb-icon-1-yellow.png"/>
+<enclosure url='https://pranavbhatkhande.github.io/audio/CB-Antiwork-Final-Mix.mp3' length='75332045' type='audio/mpeg'/>
+<itunes:duration>3138.6645416666665</itunes:duration>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>7</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<guid isPermaLink="false">
+				https://pranavbhatkhande.github.io/audio/CB-Antiwork-Final-Mix.mp3
+			</guid>
+			<pubDate>Sat, 19 Dec 2021 00:00:01 GMT</pubDate>
+			<itunes:explicit>false</itunes:explicit>
+		</item>
 	</channel>
 </rss>
+
