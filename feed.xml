@@ -238,6 +238,34 @@ First we rant, and then we talk about the antiwork movement on reddit, captured 
 			<pubDate>Sat, 19 Dec 2021 00:00:01 GMT</pubDate>
 			<itunes:explicit>false</itunes:explicit>
 		</item>
+	<item>
+			<title>An Era Of Hexadecimal Intelligence</title>
+			<itunes:title>An Era Of Hexadecimal Intelligence</itunes:title>
+			<itunes:author>Pranav and Raa</itunes:author>
+			<itunes:subtitle>
+				An Era Of Hexadecimal Intelligence
+			</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[
+A google engineer recently posted about a machine being sentient and got prompty fired for it. Here we dig in and find out if the era of machines is upon us already.]]>
+			</itunes:summary>
+			<description>
+				<![CDATA[
+A google engineer recently posted about a machine being sentient (alive?) and got prompty fired for it. Here we dig in and find out if the era of machines is upon us already. We discuss what it means to be sentient and alive. We also recommend you read this article https://cajundiscordian.medium.com/is-lamda-sentient-an-interview-ea64d916d917
+]]>
+			</description>
+			<itunes:image href="https://pranavbhatkhande.github.io/cb-icon-1-yellow.png"/>
+<enclosure url='https://pranavbhatkhande.github.io/audio/an-era-of-hexadecimal-enlightment.mp3' length='50404800' type='audio/mpeg'/>
+<itunes:duration>2248.170666666667</itunes:duration>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>8</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<guid isPermaLink="false">
+				https://pranavbhatkhande.github.io/audio/an-era-of-hexadecimal-enlightment.mp3
+			</guid>
+			<pubDate>Sat, 10 Jul 2022 00:00:01 GMT</pubDate>
+			<itunes:explicit>true</itunes:explicit>
+		</item>
 	</channel>
 </rss>
 
