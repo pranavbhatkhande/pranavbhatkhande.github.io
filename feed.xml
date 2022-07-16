@@ -266,6 +266,34 @@ A google engineer recently posted about a machine being sentient (alive?) and go
 			<pubDate>Sat, 10 Jul 2022 00:00:01 GMT</pubDate>
 			<itunes:explicit>true</itunes:explicit>
 		</item>
+	<item>
+			<title>We do some unplanned social commentary!</title>
+			<itunes:title>We do some unplanned social commentary!</itunes:title>
+			<itunes:author>Pranav and Raa</itunes:author>
+			<itunes:subtitle>
+				We do some unplanned social commentary!
+			</itunes:subtitle>
+			<itunes:summary>
+				<![CDATA[
+We planned to make an episode on how to securely upload pictures (we promise to still do this episode), but ended up talking about society, social media, and the modern world.]]>
+			</itunes:summary>
+			<description>
+				<![CDATA[
+We planned to make an episode on how to securely upload pictures (we promise to still do this episode), but ended up talking about society, social media, and the modern world.
+]]>
+			</description>
+			<itunes:image href="https://pranavbhatkhande.github.io/cb-icon-1-yellow.png"/>
+<enclosure url='https://pranavbhatkhande.github.io/audio/SocialCommentry_Raa_PB_edit2.mp3' length='97543269' type='audio/mpeg'/>
+<itunes:duration>2849.6</itunes:duration>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>9</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<guid isPermaLink="false">
+				https://pranavbhatkhande.github.io/audio/an-era-of-hexadecimal-enlightment.mp3
+			</guid>
+			<pubDate>Sat, 16 Jul 2022 00:00:01 GMT</pubDate>
+			<itunes:explicit>true</itunes:explicit>
+		</item>
 	</channel>
 </rss>
 
