@@ -294,13 +294,12 @@ We planned to make an episode on how to securely upload pictures (we promise to 
 			<pubDate>Sat, 16 Jul 2022 00:00:01 GMT</pubDate>
 			<itunes:explicit>true</itunes:explicit>
 		</item>
-
 	<item>
-			<title>Sir, your social media salad is now ready</title>
-			<itunes:title>Sir, your social media salad is now ready</itunes:title>
+			<title>Sir, your social media salad is ready for pickup</title>
+			<itunes:title>Sir, your social media is ready for pickup</itunes:title>
 			<itunes:author>Pranav and Raa</itunes:author>
 			<itunes:subtitle>
-				Sir, your social media salad is now ready
+				Sir, your social media is ready for pickup
 			<itunes:summary>
 			</itunes:subtitle>
 				<![CDATA[
@@ -324,8 +323,6 @@ Link to the NYtimes article we refer to - https://www.nytimes.com/2021/12/05/bus
 			<pubDate>Sat, 31 Jul 2022 00:00:01 GMT</pubDate>
 			<itunes:explicit>true</itunes:explicit>
 		</item>
-
-
 	</channel>
 </rss>
 
