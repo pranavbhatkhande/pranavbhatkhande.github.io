@@ -294,6 +294,38 @@ We planned to make an episode on how to securely upload pictures (we promise to 
 			<pubDate>Sat, 16 Jul 2022 00:00:01 GMT</pubDate>
 			<itunes:explicit>true</itunes:explicit>
 		</item>
+
+	<item>
+			<title>Sir, your social media salad is now ready</title>
+			<itunes:title>Sir, your social media salad is now ready</itunes:title>
+			<itunes:author>Pranav and Raa</itunes:author>
+			<itunes:subtitle>
+				Sir, your social media salad is now ready
+			<itunes:summary>
+			</itunes:subtitle>
+				<![CDATA[
+Instagram is slowly turning the knobs on its app to take on Tiktok, the biggest video platform in the world. In order to take on the Chinese giant, Instagram must make its app video first, and they're on it, the question is - will it work?]]>
+			</itunes:summary>
+			<description>
+				<![CDATA[
+Instagram is slowly turning the knobs on its app to take on Tiktok, the biggest video platform in the world. In order to take on the Chinese giant, Instagram must make its app video first, and they're on it, the question is - will it work?
+Link to the NYtimes article we refer to - https://www.nytimes.com/2021/12/05/business/media/tiktok-algorithm.html
+]]>
+			</description>
+			<itunes:image href="https://pranavbhatkhande.github.io/cb-icon-1-yellow.png"/>
+<enclosure url='https://pranavbhatkhande.github.io/audio/instagram-becomes-tiktok.mp3' length='89662080' type='audio/mpeg'/>
+<itunes:duration>2241.552</itunes:duration>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>10</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+			<guid isPermaLink="false">
+				https://pranavbhatkhande.github.io/audio/instagram-becomes-tiktok.mp3
+			</guid>
+			<pubDate>Sat, 31 Jul 2022 00:00:01 GMT</pubDate>
+			<itunes:explicit>true</itunes:explicit>
+		</item>
+
+
 	</channel>
 </rss>
 
